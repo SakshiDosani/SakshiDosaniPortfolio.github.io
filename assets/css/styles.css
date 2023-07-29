@@ -734,7 +734,7 @@ main {
 }
 
 .skill-progress-fill {
-  background: var(--text-gradient);
+  background: #123c69;
   height: 100%;
   border-radius: inherit;
 }
